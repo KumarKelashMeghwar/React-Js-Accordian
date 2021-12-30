@@ -88,3 +88,18 @@ body {
 .answer {
   padding-left: 40px;
 }
+
+@media screen and (max-width: 400px) {
+  body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+  }
+  .container {
+    width: 300px;
+    height: 70%;
+    margin: 0 auto;
+    margin-top: 100px;
+  }
+}
