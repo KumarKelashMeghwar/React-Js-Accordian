@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/React-Js-Accordian/static/css/main.7b6a31c0.css",
+    "main.css": "/React-Js-Accordian/static/css/main.7e8fb657.css",
     "main.js": "/React-Js-Accordian/static/js/main.549cc734.js",
     "static/js/787.855d930d.chunk.js": "/React-Js-Accordian/static/js/787.855d930d.chunk.js",
     "index.html": "/React-Js-Accordian/index.html",
-    "main.7b6a31c0.css.map": "/React-Js-Accordian/static/css/main.7b6a31c0.css.map",
+    "main.7e8fb657.css.map": "/React-Js-Accordian/static/css/main.7e8fb657.css.map",
     "main.549cc734.js.map": "/React-Js-Accordian/static/js/main.549cc734.js.map",
     "787.855d930d.chunk.js.map": "/React-Js-Accordian/static/js/787.855d930d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7b6a31c0.css",
+    "static/css/main.7e8fb657.css",
     "static/js/main.549cc734.js"
   ]
 }
